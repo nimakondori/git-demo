@@ -1,0 +1,2 @@
+test git quick start demo 6
+Hello world \n
